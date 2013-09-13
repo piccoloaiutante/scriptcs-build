@@ -1,6 +1,6 @@
 $ BuildCS
 
-A project that build a .net solution using framework running on [ScriptCS](https://github.com/scriptcs/scriptcs) - Awesome stuff!
+A project that build .net solution using framework running on [ScriptCS](https://github.com/scriptcs/scriptcs)
 
 ## Running the sample
 * Make sure scriptcs is [installed](https://github.com/scriptcs/scriptcs-samples/blob/master/README.md)
